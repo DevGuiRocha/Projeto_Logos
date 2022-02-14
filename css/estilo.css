@@ -6,7 +6,7 @@
 
 body {  
     display: flex;  
-    justify-content: center;  
+    justify-content: center; 
     align-items: center;  
     width: 100vw;  
     height: 100vh;  
@@ -22,7 +22,7 @@ body {
     place-items: center;  
   } 
 
-.innerbox {  
+.inside {  
     width: 120px;  
     height: 120px;  
     border: 10px solid #fff;  
@@ -32,7 +32,7 @@ body {
     position: relative;  
 }
 
-.innerbox::before {  
+.inside::before {  
     content: '';  
     width: 45px;  
     height: 45px;  
@@ -42,7 +42,7 @@ body {
     position: absolute;  
 }  
   
-.innerbox::after {  
+.inside::after {  
     content: '';  
     width: 10px;  
     height: 10px;  
@@ -52,4 +52,4 @@ body {
     position: absolute;  
     top: 8px;  
     right: 10px;  
-} 
+}
