@@ -1,7 +1,3 @@
-# Logos MediaSocial
+# Logos Aplicativos
 
-Apenas um pequeno projeto feito para prática de CSS. 
-
-Recriação da logo do Instagram em HTML + CSS.
-
-Acrescido a logo do Facebook.
+Apenas um pequeno projeto feito para prática de CSS, recriando algumas logos de aplicativos conhecidos.
