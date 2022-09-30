@@ -1,3 +1,3 @@
-# Logos Aplicativos
+# Prática CSS
 
-Apenas um pequeno projeto feito para prática de CSS, recriando algumas logos de aplicativos conhecidos.
+Um repositório onde recrio algumas pequenas features, logos ou estilos, apenas para fins de estudo de CSS.
